@@ -10,7 +10,7 @@ An end-to-end Machine Learning web application that predicts liver disease risk 
 ---
 
 ## 🚀 Live Demo
-🔗 **Click here to interact with the deployed live application:** *[INSERT YOUR STREAMLIT SHARE LINK HERE]*
+🔗 **Click here to interact with the deployed live application:** *[https://liverdiseasepredictor-bah.streamlit.app/]*
 
 ---
 
