@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+joblib
+numpy<2.0
+protobuf<5.0
